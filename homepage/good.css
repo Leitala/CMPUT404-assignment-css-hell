@@ -1,0 +1,30 @@
+.profileimg {
+    margin-top: 10%;
+    border-radius: 50%;
+    width:200px;
+    height:200px;
+}
+.profile{
+    margin-left: 10%;
+    width: 60%;
+}
+.sidebar {
+    height: 100%;
+    width: 20%;
+    position: absolute;
+    padding-top: 40px;
+    right: 0;
+    top: 0;
+    background-color: rgb(195, 195, 195);
+  }
+
+.list{
+    padding-top: 70%;
+    padding-left: 20%;
+    text-align:left;
+
+}
+
+p,li{
+    font-size: large;
+}

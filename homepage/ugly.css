@@ -1,0 +1,37 @@
+body { 
+    /* from https://unsplash.com/photos/4dpAqfTbvKA*/
+    background-image: url("images/star.jpg");
+ }
+
+.profileimg {
+    margin-top: 10%;
+    border-radius: 50%;
+    width:200px;
+    height:200px;
+}
+.profile{
+    margin-left: 10%;
+}
+.sidebar {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+.list{
+    color:red;
+
+}
+p{
+    color:yellow;
+    font-size: x-large;
+    text-align: center;
+}
+
+h1,h2{font-size: 300%;
+    color:green;
+    text-align: right;}
+
+li{
+    color:blue;
+}
