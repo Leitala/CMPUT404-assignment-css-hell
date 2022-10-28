@@ -3,7 +3,6 @@ Part 1
 Modifications
 1. In HTML files, I remove all the styling part to the css file and add one image caption lines for those two have image inside.(Odyssey.html and Ulysses.html)
 2. In HTML files, add a link tag to link my stylesheet.
-====================
 External Reference:
 1. Part 1 background from https://www.freepik.com/free-photo/paperboard-yellow-texture_5487782.htm#query=old%20paper&position=2&from_view=keyword
 2. Part 2 fake professional history from https://zety.com/blog/front-end-developer-cover-letter-example
